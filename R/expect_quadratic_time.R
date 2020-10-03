@@ -11,7 +11,6 @@
 #' @export
 #'
 #' @examples
-#' # Not running since it will throw an expected error of complexity mismatch (for demonstration):
 #' \dontrun{
 #' # Running the quick sort algorithm with sampling against a set of increasing input data sizes:
 #' sizes = 10^seq(1, 3, by = 0.5)

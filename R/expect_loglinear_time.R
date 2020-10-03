@@ -11,7 +11,6 @@
 #' @export
 #'
 #' @examples
-#' # Avoiding for CRAN since computation time might exceed 5 seconds sometimes:
 #' \donttest{
 #' # Running the quick sort algorithm with sampling against a set of increasing input data sizes:
 #' sizes = 10^seq(1, 3, by = 0.5)
